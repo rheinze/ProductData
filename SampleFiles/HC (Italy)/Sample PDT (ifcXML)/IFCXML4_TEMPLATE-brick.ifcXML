@@ -3,7 +3,7 @@
 <ifcXML xmlns:xlink="http://www.w3.org/1999/xlink"
  xmlns="http://www.buildingsmart-tech.org/ifcXML/IFC4/Add2"
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
- xsi:schemaLocation="http://www.buildingsmart-tech.org/ifcXML/IFC4/Add2 file:/C:/Users/piccinno/Desktop/TC442_WG2_IFCXML/00-IFCXML/00-SCHEMA_IFCXML/IFC4_ADD2-schema.xsd">
+ xsi:schemaLocation="http://www.buildingsmart-tech.org/ifcXML/IFC4/Add2 http://www.buildingsmart-tech.org/ifc/IFC4/Add2/IFC4_ADD2.xsd">
 
  <!-- header - Start  -->
  <header>
